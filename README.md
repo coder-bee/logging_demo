@@ -24,7 +24,7 @@ Please visit our [website](https://coderbee.de/) for more updates... :)
 
 
 # License
-MIT
+[MIT](./LICENSE)
 
 
 # References
