@@ -30,4 +30,5 @@ Please visit our [website](https://coderbee.de/) for more updates... :)
 # References
 - [Python Tutorial - Logging Basics](https://www.youtube.com/watch?v=-ARI4Cz-awo)
 - [Python Tutorial - Logging Advanced](https://www.youtube.com/watch?v=jxmzY9soFXg)
+- [How to Collect, Customize, Centralize Python Logs](https://www.datadoghq.com/blog/python-logging-best-practices/#unify-all-your-python-logs)
 
