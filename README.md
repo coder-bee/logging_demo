@@ -28,6 +28,6 @@ Please visit our [website](https://coderbee.de/) for more updates... :)
 
 
 # References
-[Python Tutorial - Logging Basics](https://www.youtube.com/watch?v=-ARI4Cz-awo)
-[Python Tutorial - Logging Advanced](https://www.youtube.com/watch?v=jxmzY9soFXg)
+- [Python Tutorial - Logging Basics](https://www.youtube.com/watch?v=-ARI4Cz-awo)
+- [Python Tutorial - Logging Advanced](https://www.youtube.com/watch?v=jxmzY9soFXg)
 
