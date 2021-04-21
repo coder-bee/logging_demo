@@ -13,7 +13,7 @@ These can be used anytime for all your future projects
 
 ## project specific installations
 - Clone this repo
-- At the rool level of the folder, run `poetry install`
+- At the root level of the folder, run `poetry install`
 
 
 # Help
