@@ -1,0 +1,17 @@
+[[package]]
+category = "main"
+description = "A python library adding a json log formatter"
+name = "python-json-logger"
+optional = false
+python-versions = ">=3.4"
+version = "2.0.1"
+
+[metadata]
+content-hash = "78dad4bafc8dd649300f5e4918863b160dbc5e5f2aa5c180319606c445ae2f36"
+lock-version = "1.0"
+python-versions = "^3.8"
+
+[metadata.files]
+python-json-logger = [
+    {file = "python-json-logger-2.0.1.tar.gz", hash = "sha256:f26eea7898db40609563bed0a7ca11af12e2a79858632706d835a0f961b7d398"},
+]
